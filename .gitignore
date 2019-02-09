@@ -1,0 +1,9 @@
+app/.vs/
+app/Debug/
+app/Release/
+app/app/Debug/
+app/app/Release/
+app/app/*.vcxproj
+app/app/*.user
+app/app/*.filters
+
